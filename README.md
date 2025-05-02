@@ -2,7 +2,7 @@
 
 `Computer Science Undergraduate Student`
 
-Hello! My name is Emmanuel Tabaoada! I am currently an undergraduate computer science student studying at the University of St. Thomas in Houston, TX.
+Hello! My name is Emmanuel Tabaoada! I am currently a undergraduate computer science student studying at the University of St. Thomas in Houston, TX.
 My expected year of graduation is 2025.
 
 ---
