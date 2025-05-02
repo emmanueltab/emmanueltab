@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## ⚜️ Emmanuel Taboada ⚜️
+** `Computer Science Undergraduate Student`**
 <!--
 **emmanueltab/emmanueltab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
