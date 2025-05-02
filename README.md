@@ -1,6 +1,6 @@
 ⚜️ Emmanuel Taboada ⚜️
 
-** `Computer Science Undergraduate Student`**
+`Computer Science Undergraduate Student`
 
 I'm an undergraduate compotuer science student studying at the University of St. Thomas Houston, TX.
 <!--
