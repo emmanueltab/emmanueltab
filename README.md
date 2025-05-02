@@ -1,5 +1,7 @@
-## ⚜️ Emmanuel Taboada ⚜️
+#⚜️ Emmanuel Taboada ⚜️
 ** `Computer Science Undergraduate Student`**
+
+I'm an undergraduate compotuer science student studying at the University of St. Thomas Houston, TX.
 <!--
 **emmanueltab/emmanueltab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
