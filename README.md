@@ -4,7 +4,7 @@
 My name is Emmanuel Taboada. I am currently a undergraduate computer science student studying at the University of St. Thomas in Houston, TX.
 My expected year of graduation is 2025.
 
-https://stthom-my.sharepoint.com/:p:/g/personal/weissma_stthom_edu/EcKLERao8kFKjng7NQAfAOMBYvO7LU_dgn3MpFuvsHNJrw?e=raAdMd
+[https://stthom-my.sharepoint.com/:p:/g/personal/weissma_stthom_edu/EcKLERao8kFKjng7NQAfAOMBYvO7LU_dgn3MpFuvsHNJrw?e=raAdMd](https://docs.google.com/document/d/13xVY_CDZ7nQs6kga3KkzSfcCvhmiJD48IEVGNsrpa_Q/edit?usp=sharing)
 ---
 
 
