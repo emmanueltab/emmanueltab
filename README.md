@@ -1,7 +1,7 @@
 <h2 align="left">Welcome to my GitHub!</h2>
 
 I'm **Emmanuel Taboada**, an undergraduate **Computer Science** student at the **University of St. Thomas (Houston, TX)**.  
-I focus on **IT**, troubleshooting, open-source tools, and building practical solutions.  
+I focus on **IT**, troubleshooting, Mathematics, software, open-source tools, and building practical solutions.  
 **Graduation:** June 2026
 
 ---
