@@ -1,4 +1,4 @@
-<h2 align="left">👋 Welcome to my GitHub!</h2>
+<h2 align="left">Welcome to my GitHub!</h2>
 
 I'm **Emmanuel Taboada**, an undergraduate **Computer Science** student at the **University of St. Thomas (Houston, TX)**.  
 I focus on **IT**, troubleshooting, open-source tools, and building practical solutions.  
@@ -6,7 +6,7 @@ I focus on **IT**, troubleshooting, open-source tools, and building practical so
 
 ---
 
-### 🔧 Languages & Tools
+### Languages & Tools
 
 <p>
   <img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -20,7 +20,7 @@ I focus on **IT**, troubleshooting, open-source tools, and building practical so
 
 ---
 
-### 📌 About Me
+### About Me
 - Interested in **AI**, **systems**, and **IT operations**
 - Experience with **repairing hardware/software issues**  
 - Enjoy teaching others (coding club, tech help)
@@ -28,11 +28,10 @@ I focus on **IT**, troubleshooting, open-source tools, and building practical so
 
 ---
 
-### 📫 Contact & Links
+### Contact & Links
 - **GitHub:** [github.com/emmanueltab](https://github.com/emmanueltab)  
 - **LinkedIn:** https://www.linkedin.com/in/emmanuel-taboada-a6a92523a/
 
 ---
 
-Thanks for visiting!
-
+Pax + Domini + sit semper + vobiscum
