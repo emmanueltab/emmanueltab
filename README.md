@@ -23,7 +23,6 @@ I focus on **IT**, troubleshooting, Mathematics, software, open-source tools, an
 ### About Me
 - Interested in **AI**, **systems**, and **IT operations**
 - Experience with **repairing hardware/software issues**  
-- Enjoy teaching others (coding club, tech help)
 - Linux enjoyer 🐧
 
 ---
