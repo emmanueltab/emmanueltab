@@ -1,19 +1,38 @@
-<h2 align="left"> Welcome to my profile! </h2>
-My name is Emmanuel Taboada. I am currently a undergraduate computer science student studying at the University of St. Thomas in Houston, TX.
-My expected year of graduation is June 2026.
+<h2 align="left">👋 Welcome to my GitHub!</h2>
 
+I'm **Emmanuel Taboada**, an undergraduate **Computer Science** student at the **University of St. Thomas (Houston, TX)**.  
+I focus on **IT**, troubleshooting, open-source tools, and building practical solutions.  
+**Graduation:** June 2026
 
+---
 
+### 🔧 Languages & Tools
 
-### Languages and Tools
+<p>
+  <img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img alt="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+  <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Bash" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+</p>
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+---
 
-#
+### 📌 About Me
+- Interested in **AI**, **systems**, and **IT operations**
+- Experience with **repairing hardware/software issues**  
+- Enjoy teaching others (coding club, tech help)
+- Linux enjoyer 🐧
+
+---
+
+### 📫 Contact & Links
+- **GitHub:** [github.com/emmanueltab](https://github.com/emmanueltab)  
+- **LinkedIn:** https://www.linkedin.com/in/emmanuel-taboada-a6a92523a/
+
+---
+
+Thanks for visiting!
+
