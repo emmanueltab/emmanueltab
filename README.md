@@ -33,5 +33,3 @@ I focus on **IT**, troubleshooting, Mathematics, software, open-source tools, an
 - **LinkedIn:** https://www.linkedin.com/in/emmanuel-taboada-a6a92523a/
 
 ---
-
-Pax + Domini + sit semper + vobiscum
