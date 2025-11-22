@@ -58,5 +58,4 @@ I focus on practical problem-solving, IT systems, and exploring AI development.
 ---
 
 ### Favorite Quote
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+"Viva Cristo Rey!" 
